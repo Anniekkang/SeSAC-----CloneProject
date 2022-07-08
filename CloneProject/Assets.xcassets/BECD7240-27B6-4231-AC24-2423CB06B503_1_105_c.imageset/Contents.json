@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "BECD7240-27B6-4231-AC24-2423CB06B503_1_105_c.jpeg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
